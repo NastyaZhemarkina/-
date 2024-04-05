@@ -1,0 +1,47 @@
+body {
+    background-color: RGB(186, 235, 169);
+    }
+ 
+  .menu {
+    list-style-type: none;
+    text-decoration: none;
+    color: #e3ebeb;
+    font-size: 25px;
+    font-weight: lighter;
+  }
+ .zagolovok {
+    color: #000;
+    font-size: 18px;
+    font-weight: 400;
+    background-color: RGB(200, 200, 200);
+
+}
+  
+  .krat-opis{ 
+    color: RGB(12, 140, 232);
+    font-size: 14px;
+    font-style: italic;
+    line-height: 16px;
+
+  }
+  .podrob-opis {
+    color: RGB(46, 9, 59);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+  }
+  .haracteristica {
+    list-style-type: none;
+    color: RGB(7, 26, 120);
+    font-size: 15px;
+    line-height: 16px;
+    font-weight: lighter
+    
+  }
+  .zvezda:before {
+    content: "\2605"; 
+    color: red; 
+    margin-right: 10px; 
+  }
+  
